@@ -32,9 +32,10 @@ This Repository pertains information relating to the conceptual and developed ow
 
 ### [1] Introduction
 
-This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Astroids Odyssey”. It is based on the 1979 arcade game "Astroids". Astroids Odyssey a redition of "Astroids" will hone the elements used in Astroids and its style, merging the ideology and methodology of Astroids with newer ideologys, methodologies and technology, being re-built from the ground up and not ported (ported Astroids version edited), Astroids Odyssey will be compatible and be able to function on newer systems.
+This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Asteroids Odyssey”. It is based on the 1979 arcade game "Asteroids". Asteroids Odyssey a redition of "Asteroids" will hone the elements used in Asteroids and its style, merging the ideology and methodology of Astroids with newer ideologys, methodologies and technology, being re-built from the ground up and not ported (ported Asteroids version edited), Asteroids Odyssey will be compatible and be able to function on newer systems.
 
 ### [2] Scope
 
+This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the the Desktop-game and Asteroids recreation  "Asteroids Odyssey".
 
 ### [3] Type Conventions
