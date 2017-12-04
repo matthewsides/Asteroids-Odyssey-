@@ -5,8 +5,7 @@
 |-----------------|
 | 04 December 2017|
  
-## Asteroids Odyssey Documentation
-This Repository pertains information relating to the conceptual and developed own rendition, reboot of the 1979 video game Asteroids that was first hosted on Arcade Machines.
+
 
 ## Revision List
 
@@ -18,6 +17,9 @@ This Repository pertains information relating to the conceptual and developed ow
 |             |                 |                      |                                |
 |             |                 |                      |                                |
 |                   
+
+## Asteroids Odyssey Documentation
+This Repository pertains information relating to the conceptual and developed own rendition, reboot of the 1979 video game Asteroids that was first hosted on Arcade Machines.
 
 
 ## Table Of Contents
