@@ -1,6 +1,8 @@
 
 ![Alt text](https://github.com/matthewsides/Asteroids-Odyssey-/blob/master/astroids_odyssey_logo_alternative.png?raw=true "Optional Title")
 
+![Alt text](https://github.com/matthewsides/Asteroids-Odyssey-/blob/master/asteroids-odyssey-poster.png?raw=true "Optional Title")
+
 | Version 1.00    |
 |-----------------|
 | 04 December 2017|
