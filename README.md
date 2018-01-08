@@ -51,10 +51,12 @@ Things that have not been offically agreed on but which are suggested by the aut
 
 #### Player States
 
-#### A.I 
+#### Interactable Entitys 
 
-- Big Space Ship-
+Big Space Ship
 
--Small Space Ship-
+Small Space Ship
 
--Asteroid-
+Asteroid
+
+
