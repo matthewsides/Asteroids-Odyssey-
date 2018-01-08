@@ -60,6 +60,8 @@ Big Space Ship
 
 Small Space Ship
 
-Asteroid
+Big Asteroid 
+
+Small Asteroid
 
 
