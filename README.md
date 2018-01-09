@@ -66,13 +66,13 @@ Small Asteroid
 
 #### Points system
 
-| Version     | Author          | Date                 | Comments                       |
+| ID          | Value           | Destroyed            | Points                         |
 |-------------|-----------------|----------------------|--------------------------------|
-| 1.00        |  Matthew Sides  | 4th December 2017    | Initial Version                |
-|             |                 |                      |                                | 
-|             |                 |                      |                                | 
-|             |                 |                      |                                |
-|             |                 |                      |                                |
+| Small Asteroid|  50  | 0   |                                                          |
+| Big Asteroid|    100 | 0   |                                                          | 
+| Small Saucer|    150 | 0   |                                                          | 
+| Big Saucer  |    200 | 0   |                                                          |
+|             |        |     |                                                          |
                    
 #### Health|Damage system
 
