@@ -64,4 +64,5 @@ Big Asteroid
 
 Small Asteroid
 
+Camera- Fixed aerial view
 
