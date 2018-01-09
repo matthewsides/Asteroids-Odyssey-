@@ -82,7 +82,7 @@ Small Asteroid
 | Big Asteroid|   -5 | 0  |                                                             | 
 | Small Saucer|   -4 | 0  |                                                             | 
 |  Big Saucer |   -7 | 0  |                                                             |
-|             |      | 0  |                                                             |
+|             |      |    |                                                             |
                    
 
 #### Player Camera View
