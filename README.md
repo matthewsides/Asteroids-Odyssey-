@@ -76,13 +76,13 @@ Small Asteroid
                    
 #### Health|Damage system
 
-| Version     | Author          | Date                 | Comments                       |
+| ID          | Damage          | Hit                  | System Health                  |
 |-------------|-----------------|----------------------|--------------------------------|
-| 1.00        |  Matthew Sides  | 4th December 2017    | Initial Version                |
-|             |                 |                      |                                | 
-|             |                 |                      |                                | 
-|             |                 |                      |                                |
-|             |                 |                      |                                |
+| Small Asteroid| -1 | 0  | 100%                                                        |
+| Big Asteroid|   -5 | 0  |                                                             | 
+| Small Saucer|   -4 | 0  |                                                             | 
+|  Big Saucer |   -7 | 0  |                                                             |
+|             |      | 0  |                                                             |
                    
 
 #### Player Camera View
