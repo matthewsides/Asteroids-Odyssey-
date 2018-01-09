@@ -67,6 +67,7 @@ Small Asteroid
 
 #### Player Camera View
 The Camera will be a fixed aerial view, tracking the 2D ship graphic model continously (realtime), positioned in the middle of the screen. The system applied, similiar to the online game Diep.io which boasts a fixed camera that disables scrolling out to view the surrounding enviroment (area), thereafter adding another element to the game as players are forced to be more cautious.
+
 ![Alt text](https://github.com/matthewsides/Asteroids-Odyssey-/blob/master/Diep.io.png?raw=true "Optional Title")
 
 procedural/randomly generated enviroment
