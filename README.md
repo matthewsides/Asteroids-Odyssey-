@@ -91,3 +91,19 @@ The Camera will be a fixed aerial view, tracking the 2D ship graphic model conti
 ![Alt text](https://github.com/matthewsides/Asteroids-Odyssey-/blob/master/Diep.io.png?raw=true "Optional Title")
 
 procedural/randomly generated enviroment
+
+Decided that the game will be hosted on PC despite the rise in the mobile market since the majority of user's and reason for the sudden rise in mobile gaming stems from the east in particular china, whilst the game will only run (be using) on one lingistutic language english. 
+
+
+Therefore it would be useless to cater to a demographic whom are unlikely to buy the game due to its demenor and exclusion of national language a barrier that though passable is still a problem in regards to the user's ease of use. 
+
+Furthermore nationals with whom speak the english language (americans,english, australia, etc) though have a huge following on mobile, the computing  gamer market still largely outweighs the mobile market by ______, hence the reason the game will be run on PC.
+
+With regards to download, despite the heavy critiscm steam has been garnering recently due to the scrap of steam greenlight and in flux of shoddy and poorly made games, the game will be aviliable and hosted (put up) via the steam store as although the massive flow traffic will make it harder for a game to be distinguishable the abolishment of steam green light does not come without any advantages, since now only a fee is required to be procured by valve or steam rather than a fee and user recognition.
+
+Whilst the ability to stand out in a ever so saturating and cluttered market place would prove capablity and thereafter boost influence and recognition (brand status).
+
+Steam is also still a widely regarded and respected market platform and although may not herald the same status as it used to still has the ability to make or break a game.
+
+In addition to market said applications onto the apple store place an ID is required meriting or allowing the application to be sold through the apple store. Furthermore  apple also includes its own terms of  service  that have to be met and abided by with the application being checked based on said regulations before it is even released even after paying for the right to host on the apple store since apple have their own standards. 
+
