@@ -107,3 +107,6 @@ Steam is also still a widely regarded and respected market platform and although
 
 In addition to market said applications onto the apple store place an ID is required meriting or allowing the application to be sold through the apple store. Furthermore  apple also includes its own terms of  service  that have to be met and abided by with the application being checked based on said regulations before it is even released even after paying for the right to host on the apple store since apple have their own standards. 
 
+### [5] Inspiration 
+Following the decision to recreate the 1979 arcade game Asteroids, collective research into similiar classics and there remakes 
+has given fruit to the ideology behind this rendition of Asteroids, Asteroids Odeyysey, using the original asthetic outlook and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour than the original, tweaking any alterications encountered in the original due to developer mistakes and allowing the user to have more content to choose from. 
