@@ -110,3 +110,9 @@ In addition to market said applications onto the apple store place an ID is requ
 ### [5] Inspiration 
 Following the decision to recreate the 1979 arcade game Asteroids, collective research into similiar classics and there remakes 
 has given fruit to the ideology behind this rendition of Asteroids, Asteroids Odeyysey, using the original asthetic outlook and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour than the original, tweaking any alterications encountered in the original due to developer mistakes and allowing the user to have more content to choose from. 
+
+As seen below games that helped formulate this rendition-
+
+Pacman Championship
+
+Mario 
