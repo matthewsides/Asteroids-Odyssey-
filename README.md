@@ -109,7 +109,7 @@ In addition to market said applications onto the apple store place an ID is requ
 
 ### [5] Inspiration 
 Following the decision to recreate the 1979 arcade game Asteroids, collective research into similiar classics and there remakes 
-has given fruit to the ideology behind this rendition, Asteroids Odyssey, using the original asthetic outlook and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour, tweaking any faults found in the original due to developer mistakes and allowing the user to have access to more content. Thus enhancing playablity, Mimicking the orignal with a twist, allowing gamers to experience the journey that is asteroids with another, overall following suit to the originals legacy.
+has given fruit to the ideology behind this rendition, Asteroids Odyssey, using the original asthetic outlook and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour, tweaking any faults found in the original due to developer mistakes and allowing the user to have access to more content. Thus enhancing playablity, Mimicking the orignal with a twist, allowing gamers to experience the journey that is asteroids with another, overall following suit to the originals legacy but altering certain aspects of the game to build upon the flaws that stemmed from the 1979 release and essentially modernising the game.
 
 As seen below games that helped formulate this rendition-
 
