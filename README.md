@@ -119,6 +119,8 @@ Mario
 
 Halo Anniversary (switch between graphics)
 
+call of duty black ops (Zombie mode, Team work, Leaderboard)
 
+crash bandicoot (DDA System)
 
 http://soundbible.com/1795-Electrical-Sweep.html
