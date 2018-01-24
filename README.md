@@ -117,6 +117,7 @@ Pacman Championship
 
 Mario 
 
+Halo Anniversary (switch between graphics)
 
 
 
