@@ -121,8 +121,12 @@ Halo Anniversary (switch between graphics)
 
 call of duty black ops (Zombie mode, Team work, Leaderboard)
 
-crash bandicoot (DDA System)
+Crash bandicoot (DDA System)
 
 Diep.io (Camera view)
 
 http://soundbible.com/1795-Electrical-Sweep.html
+
+add adaptive music 
+button to switch between retro graphics and sounds to updated versions
+neon updated graphics
