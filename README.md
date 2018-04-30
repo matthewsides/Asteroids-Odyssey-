@@ -110,6 +110,7 @@ Furthermore, another requirement, quality assurance is detrimental to the projec
 
 
 #### [1.7] General Plan 
+
 The plan consists of essentially detailing designs through storyboards and paragraphs, further showing functionality through flow charts and algorithm. Whilst this will be enacted through this documentation and a schedule will be mapped out using said charts (showing management). 
 
 Following the design in conjunction research will be carried out pertaining to the ideology and methodology on how to reduce vulnerabilities.  This research warranting the use of secondary and primary, using questionnaires and surveys to measure people awareness on the subject and then finding related articles on the subject to get an idea on how to reduce vulnerabilities myself. 
