@@ -77,7 +77,7 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 • Create a Secondary Research report based on software vulnerabilities 
 
-The initial objective pertains to the creation of a secondary research report based on software vulnerabilities. This will be achieved through carrying out research using the internet and books as a median to obtain information and data already collected, formulating my own report. 
+The initial objective pertains to the creation of a secondary research report based on software vulnerabilities. This will be achieved through carrying out research using the internet and books as a median to obtain information and data already collected, formulating my own report. The secondary research will interlink with the primary research to help attain conclusions as to why software vulnerabilities may appear and essentially how to mitigate (prevent) them in ths capstone project. This will be expected to be completed by the 5th March, leaving two weeks to complete the report. This should be enough time as it leaves a week to compile the information and another to write the report based on what was gethered. 
 
 
 • Produce and  gather data using a questionnare  
