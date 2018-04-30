@@ -62,13 +62,13 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 #### [1.4] Aims and Objectives 
 
-	Carry out (*superstantial) substantial research that garners discussion and opinions, including both qualitative and quantitative data.
+ Carry out (*superstantial) substantial research that garners discussion and opinions, including both qualitative and quantitative data.
 
-	Link two systems through a database (cloud), displaying real time changes on two separate screens.
+ Link two systems through a database (cloud), displaying real time changes on two separate screens.
 
-	Incorporate two sets of controls, enabling both keyboard | mouse (in conjunction) and the Microsoft Xbox controller (with interchangeable controls).
+ Incorporate two sets of controls, enabling both keyboard | mouse (in conjunction) and the Microsoft Xbox controller (with interchangeable controls).
 
-	Create a functional rendition of asteroids, that herald’s similar elements.
+ Create a functional rendition of asteroids, that herald’s similar elements.
 
 
 #### [1.5] Management Strategy 
@@ -100,7 +100,7 @@ Following the design in conjunction research will be carried out pertaining to t
 
 Moreover, after the design and project management planning, during production phase, a multiplayer rendition of Asteroids will formulate using googles free fire database to add online/multiplayer elements and so that the program may be accessed on two systems (concurrent), furthermore the final version should incorporate a function that enables players/users to be able to use their controllers as well as keyboard and mouse (controller compatible).
 
-#### Research Plan [1.8]
+#### [1.8] Research Plan 
 
 The research being carried out pertains to how to reduce vulnerabilities in a system and will include both quantitative and qualitative data being both secondary and primary. 
 
@@ -108,7 +108,7 @@ Further elaborating on the primary data being gathered, a questionnaire will be 
 
 Following the research, the data and congregated information gathered will be put into practice through the project, using said information gathered in an attempt to reduce vulnerabilities in the games system using techniques and methodology’s learned. 
 
-#### GANTT chart [1.9]
+#### [1.9] GANTT chart 
 
 The Gantt chart below is inapplicable to the later tasks as the Gantt chart had to be shortened due to a lack of space and limitations in Microsoft word, though the duration is displayed in the part of the table labelled "Duration". 
 
@@ -121,7 +121,7 @@ ID	Task Name	Predecessors	Duration	18	02	18
 5	Demo Review		39 Days								
 6	Evaluation		39 Days								
 
- #### Target User [10.1]
+ #### [10.1] Target User 
  
 Through analysis of the originals audience and genre coupled with the inclusion of new key aspects and concepts being brought in and incorporated/designed for the game or new rendition, the target audience seen to be players or user’s that have an interest in the following Genres; Sci-Fi, Multi Directional Shooter and Multiplayer. 
 
@@ -141,27 +141,28 @@ Furthermore to explain why the original games (schematics) range or target demog
 
 Therefore an indefinite target audience or whether during the time it would be successful was debatable as games were still seen or viewed as gimmicks in certain people’s eyes, thus using the old asteroids demographic may not necessary be wise as the range was not what attributed to the games success but rather its innovation, simplistic design (controls/ attributed to the user ease of use) and lack of a similar infographic or games at the time.
 
-#### User Requirements & Expectations [10.2]
+#### [10.2] User Requirements & Expectations 
 
- #### Project Milestones (EPICS) [10.3]
+#### [10.3] Project Milestones (EPICS) 
 I.	Create a functional Asteroids Rendition.
 II.	Connectivity between multiple systems.
 III.	Compatibility with a controller and vice versa, working or functioning with keyboard and mouse as well.
 IV.	View and navigate across a purposeful and structured menu.
 V.	Incorporate research taken out into the building and production process/phase.
 
-#### UI Designs[10.4]
+#### [10.4] UI Designs
 
-#### Storyboard[10.5]
+#### [10.5] Storyboard
 
 
 
- #### Algorithms [10.6]
+ #### [10.6] Algorithms 
  
 
-#### Features [10.7]
+#### [10.7] Features 
 
-User Stories (Project Backlog) [10.8]
+#### [10.8] User Stories (Project Backlog) 
+
 User Stories Revised (Epics Broken Down)-
 I.	Initiate a move state (Move a pre-defined model across a screen)
 II.	
@@ -172,65 +173,58 @@ Priority 	Product Backlog Items	Description	Due Date
 			
 			
 
- Target Burn down Chart [10.9]
+ #### [10.9] Target Burn down Chart 
  
- 1stWeek Sprint (Backlog) [11]
+ ### [11] 1stWeek Sprint (Backlog) 
+ 
 Priority 	Sprint Backlog Items	Due Date	Mo	Tu	We	Th	Fr	Sa	Su
 									
 									
 									
 
-2ndWeek Sprint (Backlog)  [11.1]
+### [11.1] 2ndWeek Sprint (Backlog) 
+
 Priority	Sprint Backlog Items	Due Date	Mo	Tu	We	Th	Fr	Sa	Su
 									
 									
 									
 
 
-Coding Standards [11.2]
+### [11.2] Coding Standards 
+
 Coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be. The coding standards applied for this particular project are similar to those used by Drupal (Drupal 2017).
 
-I.	Indenting and White Space-
-Use an indent of 2 spaces, with no tabs. Lines should have no trailing whitespace at the end.
+I.	Indenting and White Space- Use an indent of 2 spaces, with no tabs. Lines should have no trailing whitespace at the end.
 
-II.	Operators-
-All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability.
+II.	Operators- All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability.
 
 
-III.	Casting-
-Put a space between the (type) and the variable in a cast: (int) variable name.
+III.	Casting- Put a space between the (type) and the variable in a cast: (int) variable name.
 
 
-IV.	Control Structures-
-Control structures essentially relating to if, for, while, switch, etc. Control statements should always have one space between the control keyword and opening parenthesis, to distinguish them from function calls.
+IV.	Control Structures- Control structures essentially relating to if, for, while, switch, etc. Control statements should always have one space between the control keyword and opening parenthesis, to distinguish them from function calls.
 
 Moreover always use curly brackets even in situations that are technically optional, since they decrease the likeliness of logic errors, etc.
 
-V.	Line Length and Wrapping-
-Conditions (conditional statements) should not be wrapped into multiple lines. Whilst Lines containing longer function names, function/class definitions, variable declarations, etc should not exceed 80 characters. 
+V.	Line Length and Wrapping- Conditions (conditional statements) should not be wrapped into multiple lines. Whilst Lines containing longer function names, function/class definitions, variable declarations, etc should not exceed 80 characters. 
 Although conditional statements may as long as its purpose is conveyed or portrayed clearly. Furthermore comments are allowed to exceed the limit, though must be moderated still to ensuring the code is not impossible to locate as it is overwritten and encased in comments.
 
-VI.	Function calls-
-Functions should be called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon. 
+VI.	Function calls- Functions should be called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon. 
 
-VII.	Quotes-
-There is no pre-defined or set standard for double or single quotes other than trying to keep consistency and ensure that the quotes are closed and not left open to avoid any errors.
+VII.	Quotes- There is no pre-defined or set standard for double or single quotes other than trying to keep consistency and ensure that the quotes are closed and not left open to avoid any errors.
 
 
-VIII.	Comments-
-There isn't a particular standard to commenting other than ensuring that  comments are clear and concise, the amount of characters a comment may exceed is not set, though it is recommended to keep the comments to either one or two lines.
+VIII.	Comments- There isn't a particular standard to commenting other than ensuring that  comments are clear and concise, the amount of characters a comment may exceed is not set, though it is recommended to keep the comments to either one or two lines.
 
-IX.	Naming conventions- 
-Functions should be named using lowercase, and words should be separated with an underscore. Functions should in addition have the grouping/module name as a prefix, to avoid name collisions between modules.
+IX.	Naming conventions-  Functions should be named using lowercase, and words should be separated with an underscore. Functions should in addition have the grouping/module name as a prefix, to avoid name collisions between modules.
 Variables should be named using lowercase, and words should be separated either with uppercase characters.
 
-X.	Arrays-
-Arrays should be formatted using short array syntax with a space separating each element (after the comma), and spaces around the => key association operator, if applicable.
+X.	Arrays- Arrays should be formatted using short array syntax with a space separating each element (after the comma), and spaces around the => key association operator, if applicable.
 
-XI.	Function Declarations-
-Arguments with default values go at the end of the argument list. Always attempt to return a meaningful value from a function if one is appropriate.
+XI.	Function Declarations- Arguments with default values go at the end of the argument list. Always attempt to return a meaningful value from a function if one is appropriate.
 Anonymous functions should have a space between "function" and its parameters.
-Design [2]
+
+### [2] Design 
 
 Games Mechanics 
 Player States
@@ -304,7 +298,7 @@ http://soundbible.com/1795-Electrical-Sweep.html  - where are these two mentione
 http://melodrive.com/blog/what-is-adaptive-music/
 Test Plan
 
-Evaluation [3]
+### [3] Evaluation 
  
 Bibliography
 
