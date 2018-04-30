@@ -114,11 +114,17 @@ The Gantt chart below is inapplicable to the later tasks as the Gantt chart had 
 
 ID	Task Name	Predecessors	Duration	18	02	18					
 				S	M	T	W	T	F	S	S
-1	Start		0 Days								
-2	Project Management		3 Days (Including Sat)								
-3	Design		6 Days								
-4	Project Demo		34 Days								
-5	Demo Review		39 Days								
+				
+1	Start		0 Days		
+
+2	Project Management		3 Days (Including Sat)	
+
+3	Design		6 Days			
+
+4	Project Demo		34 Days		
+
+5	Demo Review		39 Days		
+
 6	Evaluation		39 Days								
 
  #### [10.1] Target User 
@@ -144,10 +150,15 @@ Therefore an indefinite target audience or whether during the time it would be s
 #### [10.2] User Requirements & Expectations 
 
 #### [10.3] Project Milestones (EPICS) 
+
 I.	Create a functional Asteroids Rendition.
+
 II.	Connectivity between multiple systems.
+
 III.	Compatibility with a controller and vice versa, working or functioning with keyboard and mouse as well.
+
 IV.	View and navigate across a purposeful and structured menu.
+
 V.	Incorporate research taken out into the building and production process/phase.
 
 #### [10.4] UI Designs
@@ -164,8 +175,11 @@ V.	Incorporate research taken out into the building and production process/phase
 #### [10.8] User Stories (Project Backlog) 
 
 User Stories Revised (Epics Broken Down)-
+
 I.	Initiate a move state (Move a pre-defined model across a screen)
+
 II.	
+
 Priority 	Product Backlog Items	Description	Due Date
 			
 			
@@ -194,40 +208,42 @@ Priority	Sprint Backlog Items	Due Date	Mo	Tu	We	Th	Fr	Sa	Su
 
 Coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be. The coding standards applied for this particular project are similar to those used by Drupal (Drupal 2017).
 
-I.	Indenting and White Space- Use an indent of 2 spaces, with no tabs. Lines should have no trailing whitespace at the end.
+I. Indenting and White Space- Use an indent of 2 spaces, with no tabs. Lines should have no trailing whitespace at the end.
 
-II.	Operators- All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability.
-
-
-III.	Casting- Put a space between the (type) and the variable in a cast: (int) variable name.
+II. Operators- All binary operators (operators that come between two values), such as +, -, =, !=, ==, >, etc.(should) have a space before and after the operator, for readability.
 
 
-IV.	Control Structures- Control structures essentially relating to if, for, while, switch, etc. Control statements should always have one space between the control keyword and opening parenthesis, to distinguish them from function calls.
+III. Casting- Put a space between the (type) and the variable in a cast: (int) variable name.
+
+
+IV. Control Structures- Control structures essentially relating to if, for, while, switch, etc. Control statements should always have one space between the control keyword and opening parenthesis, to distinguish them from function calls.
 
 Moreover always use curly brackets even in situations that are technically optional, since they decrease the likeliness of logic errors, etc.
 
-V.	Line Length and Wrapping- Conditions (conditional statements) should not be wrapped into multiple lines. Whilst Lines containing longer function names, function/class definitions, variable declarations, etc should not exceed 80 characters. 
+V. Line Length and Wrapping- Conditions (conditional statements) should not be wrapped into multiple lines. Whilst Lines containing longer function names, function/class definitions, variable declarations, etc should not exceed 80 characters. 
 Although conditional statements may as long as its purpose is conveyed or portrayed clearly. Furthermore comments are allowed to exceed the limit, though must be moderated still to ensuring the code is not impossible to locate as it is overwritten and encased in comments.
 
-VI.	Function calls- Functions should be called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon. 
+VI. Function calls- Functions should be called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon. 
 
-VII.	Quotes- There is no pre-defined or set standard for double or single quotes other than trying to keep consistency and ensure that the quotes are closed and not left open to avoid any errors.
+VII. Quotes- There is no pre-defined or set standard for double or single quotes other than trying to keep consistency and ensure that the quotes are closed and not left open to avoid any errors.
 
 
-VIII.	Comments- There isn't a particular standard to commenting other than ensuring that  comments are clear and concise, the amount of characters a comment may exceed is not set, though it is recommended to keep the comments to either one or two lines.
+VIII. Comments- There isn't a particular standard to commenting other than ensuring that  comments are clear and concise, the amount of characters a comment may exceed is not set, though it is recommended to keep the comments to either one or two lines.
 
-IX.	Naming conventions-  Functions should be named using lowercase, and words should be separated with an underscore. Functions should in addition have the grouping/module name as a prefix, to avoid name collisions between modules.
+IX. Naming conventions-  Functions should be named using lowercase, and words should be separated with an underscore. Functions should in addition have the grouping/module name as a prefix, to avoid name collisions between modules.
 Variables should be named using lowercase, and words should be separated either with uppercase characters.
 
-X.	Arrays- Arrays should be formatted using short array syntax with a space separating each element (after the comma), and spaces around the => key association operator, if applicable.
+X. Arrays- Arrays should be formatted using short array syntax with a space separating each element (after the comma), and spaces around the => key association operator, if applicable.
 
-XI.	Function Declarations- Arguments with default values go at the end of the argument list. Always attempt to return a meaningful value from a function if one is appropriate.
+XI. Function Declarations- Arguments with default values go at the end of the argument list. Always attempt to return a meaningful value from a function if one is appropriate.
 Anonymous functions should have a space between "function" and its parameters.
 
 ### [2] Design 
 
 Games Mechanics 
+
 Player States
+
 Move-
 
 
@@ -236,26 +252,40 @@ Move-
 Intractable Entity's 
 
 I.	Big Space Ship
+
 II.	Small Space Ship
+
 III.	Big Asteroid 
+
 IV.	Small Asteroid
 
  Points system
+ 
 ID	Value	Destroyed	Points
+
 Small Asteroid	50	0	
+
 Big Asteroid	100	0	
-Small Saucer	150	0	
+
+Small Saucer	150	0
+
 Big Saucer	200	0	
                   
 Health Damage system
+
 ID	Damage	Hit	System Health
+
 Small Asteroid	-1	0	100%
+
 Big Asteroid	-5	0	
+
 Small Saucer	-4	0	
+
 Big Saucer	-7	0	
 
                    
 Player Camera View
+
 The Camera will be a fixed aerial view, tracking the 2D ship graphic model continuously (real-time), positioned in the middle of the screen. The system applied, similar to the online game Diep.io which boasts a fixed camera that disables scrolling out to view the surrounding environment (area), thereafter adding another element to the game as players are forced to be more cautious.
 
 
@@ -265,37 +295,57 @@ The Camera will be a fixed aerial view, tracking the 2D ship graphic model conti
 
 
 Target Systems
-The game has ultimately been decided to be hosted on PC despite the rise in the mobile market since the majority of user's and reason for the sudden rise in mobile gaming stems from the east in particular china, whilst the game will only run (be using) on one lingistutic language English. 
-Therefore it would be useless to cater to a demographic whom are unlikely to buy the game due to its demeanour and exclusion of national language a barrier that though passable is still a problem in regards to the user's ease of use. 
+
+The game has ultimately been decided to be hosted on PC despite the rise in the mobile market since the majority of user's and reason for the sudden rise in mobile gaming stems from the east in particular china, whilst the game will only run (be using) on one lingistutic language English. Therefore it would be useless to cater to a demographic whom are unlikely to buy the game due to its demeanour and exclusion of national language a barrier that though passable is still a problem in regards to the user's ease of use. 
+
 Furthermore, nationals with whom speak the English language (Americans, English, Australia, etc) though have a huge following on mobile, the computing gamer market still largely outweighs the mobile market by ______, hence the reason the game will be run on PC.
 With regards to download, despite the heavy critiscm steam has been garnering recently due to the scrap of steam green light and influx of shoddy and poorly made games, the game will be available and hosted (put up) via the steam store as although the massive flow traffic will make it harder for a game to be distinguishable the abolishment of steam green light does not come without any advantages, since now only a fee is required to be procured by valve or steam rather than a fee and user recognition.
-Whilst the ability to stand out in an ever so saturating and cluttered market place would prove capability and thereafter boost influence and recognition (brand status).
-Steam is also still a widely regarded and respected market platform, a view supported by Wilson (2011) and although may not herald the same status as it used to still has the ability to make or break a game.
+
+Whilst the ability to stand out in an ever so saturating and cluttered market place would prove capability and thereafter boost influence and recognition (brand status).Steam is also still a widely regarded and respected market platform, a view supported by Wilson (2011) and although may not herald the same status as it used to still has the ability to make or break a game.
+
 In addition to market said applications onto the Apple store place an ID is required meriting or allowing the application to be sold through the Apple store. Furthermore Apple also includes its own ‘Terms of  Service’ (Apple No Date) that have to be met and abided by with the application being checked based on said regulations before it is even released even after paying for the right to host on the apple store since apple have their own standards.
 
 Inspiration 
-Following the decision to recreate the 1979 arcade game Asteroids, collective research into similar classics and there remakes has given fruit to the ideology behind this rendition, Asteroids Odyssey, using a similar aesthetic outlook to the original and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour, tweaking any faults found in the original due to developer mistakes and allowing the user to have access to more content. Thus enhancing playability, Mimicking the original with a twist, allowing gamers to experience the journey that is asteroids with another, overall following suit to the originals legacy but altering certain aspects of the game to build upon the flaws that stemmed from the 1979 release, essentially modernising the game.
+Following the decision to recreate the 1979 arcade game Asteroids, collective research into similar classics and there remakes has given fruit to the ideology behind this rendition, Asteroids Odyssey, using a similar aesthetic outlook to the original and updated vectors,  along with tweaked game mechanics, updated game sounds and a multitude of game variations thus giving the game more flavour, tweaking any faults found in the original due to developer mistakes and allowing the user to have access to more content. 
+
+Thus enhancing playability, Mimicking the original with a twist, allowing gamers to experience the journey that is asteroids with another, overall following suit to the originals legacy but altering certain aspects of the game to build upon the flaws that stemmed from the 1979 release, essentially modernising the game.
 
 As seen below games that helped formulate this rendition-
 
 I.	Pac man Championship
+
 II.	Mario 
+
 III.	Halo Anniversary (switch between graphics)
+
 IV.	call of duty black ops (Zombie mode, Team work, Leader board)
+
 V.	Crash bandicoot (DDA System)
+
 VI.	Diep.io (Camera view)
 
 Notes (Undecided Features)
+
 * procedural/randomly generated environment
+
 *add adaptive music 
+
 *button to switch between retro graphics and sounds to updated versions
+
 *neon updated graphics
+
 *faced paced intro before the menu 
+
 *2D with 3D aspects or illusion of 3D
+
 *Single Player with different aspects and tutorial
+
 *Ranks and different ships as player rewards
+
 http://soundbible.com/1795-Electrical-Sweep.html  - where are these two mentioned above so we can reference them?
+
 http://melodrive.com/blog/what-is-adaptive-music/
+
 Test Plan
 
 ### [3] Evaluation 
