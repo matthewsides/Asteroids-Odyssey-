@@ -77,8 +77,6 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 • Primary Research
 
-
-
 • Secondary Research
 
 •
