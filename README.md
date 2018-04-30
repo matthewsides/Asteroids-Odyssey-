@@ -326,7 +326,7 @@ VI.	Diep.io (Camera view)
 
 Notes (Undecided Features)
 
-* procedural/randomly generated environment
+*procedural/randomly generated environment
 
 *add adaptive music 
 
