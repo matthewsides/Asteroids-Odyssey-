@@ -75,13 +75,14 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 ##### Objectives
 
-• Primary Research
+• Create a Secondary Research
 
-• Secondary Research
 
-•
+• Produce and  a questionnare 
 
-•
+
+• Create a Primary Research report
+
 
 #### [1.5] Management Strategy 
 
