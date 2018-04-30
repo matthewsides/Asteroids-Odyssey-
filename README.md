@@ -77,15 +77,16 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 • Create a Secondary Research report based on software vulnerabilities 
 
-The initial objective pertains to the creation of a secondary research report based on software vulnerabilities. This will be achieved through carrying out research using the internet and books as a median to obtain information and data already collected, formulating my own report. The secondary research will interlink with the primary research to help attain conclusions as to why software vulnerabilities may appear and essentially how to mitigate (prevent) them in ths capstone project. This will be expected to be completed by the 5th March, leaving two weeks to complete the report. This should be enough time as it leaves a week to compile the information and another to write the report based on what was gethered. 
-
+The initial objective pertains to the creation of a secondary research report based on software vulnerabilities. This will be achieved through carrying out research using the internet and books as a median to obtain information and data already collected, formulating my own report. The secondary research will interlink with the primary research to help attain conclusions as to why software vulnerabilities may appear and essentially how to mitigate (prevent) them in this capstone project. This will be expected to be completed by the 5th March, leaving two weeks to complete the report. This should be enough time as it leaves a week to compile the information and another to write the report based on what was gethered. 
 
 • Produce and  gather data using a questionnare  
 
-This objective relates to undertaking primary research, creating a questionnaire and aquiring data through it being filled in.
+This objective relates to undertaking primary research, creating a questionnaire and aquiring data through it being filled in. This will be achieved through creating a questionnaire, utilising sampling methodologies and manually handing out the questionnaire's for people to fill in.This objective is crucial as it builds upon and is essentially the ground work for the Primary research report.This will be expected to be completed over three days (5th, 6th, 7th March 2018).
 
 • Create a Primary Research report
 
+This objective entails creating or producing a primary research report, using the data aquired through the primary research questionnaire (an ealier objective).This will be completed either at home or on campus grounds (West Herts College). The amount of people involved consist of one (Matthew Sides). The reason for creating a primary research report is to essentially compare with the secondary report as well as conclude how vulnerabilities occur and ways of prevention. This will be carried out over 7 days between 
+5th and 11th March 2018 (though more time may be allocated if required).
 
 #### [1.5] Management Strategy 
 
