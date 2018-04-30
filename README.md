@@ -64,18 +64,26 @@ The conceptual idea is set to be based on the 1979 arcade game "Asteroids". Aste
 
 ##### Aims
 
- Carry out (*superstantial) substantial research that garners discussion and opinions, including both qualitative and quantitative data.
+• Carry out (*superstantial) substantial research that garners discussion and opinions, including both qualitative and quantitative data. Pertaining to vulnerabilities in software development.
 
- Link two systems through a database (cloud), displaying real time changes on two separate screens.
+• Link two systems through a database (cloud), displaying real time changes on two separate screens.
 
- Incorporate two sets of controls, enabling both keyboard | mouse (in conjunction) and the Microsoft Xbox controller (with interchangeable controls).
+• Incorporate two sets of controls, enabling both keyboard | mouse (in conjunction) and the Microsoft Xbox controller (with interchangeable controls).
 
- Create a functional rendition of asteroids, that herald’s similar elements.
+• Create a functional rendition of asteroids, that herald’s similar elements.
 
 
 ##### Objectives
 
+• Primary Research
 
+
+
+• Secondary Research
+
+•
+
+•
 
 #### [1.5] Management Strategy 
 
